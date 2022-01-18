@@ -58,7 +58,8 @@
 
 @media (max-width: 480px) {
   .header {
-    padding: 60px 50px;
+    background: transparent;
+    padding: 20px 50px;
   }
   .header_menu.active li {
     transform: translateY(calc(300px / 4 * var(--i)));
