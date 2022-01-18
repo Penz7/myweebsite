@@ -38,7 +38,7 @@
   border: 2px solid #00ffe2;
   border-radius: 4px;
   list-style: none;
-  transition: 0.5s linear;
+  transition: transform 0.5s linear;
 
   transition-delay: calc(0.1s * var(--i));
   justify-content: center;
