@@ -1,6 +1,6 @@
 const headerOpenToggle = document.querySelector(".header_open");
 const headerMenu = document.querySelector(".header_menu");
-const darkMode = document.querySelector(".iconBox");
+const darkMode = document.querySelector(".input");
 const modeBg = document.querySelector(".dark-mode");
 // Open header list
 headerOpenToggle.onclick = () => {
