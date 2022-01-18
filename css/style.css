@@ -75,6 +75,11 @@
   .header_menu-item {
     margin-right: -40px;
   }
+  
+  .toggle-dark {
+    top: 14px;
+    left: 42%
+  }
 }
 
 .header_menu-link {
